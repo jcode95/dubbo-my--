@@ -1,0 +1,3 @@
+blue=org.zj.spi.dubbo.MySPIInterfaceBlueImpl
+read=org.zj.spi.dubbo.MySPIInterfaceReadImpl
+wrapper=org.zj.spi.dubbo.Wrapper

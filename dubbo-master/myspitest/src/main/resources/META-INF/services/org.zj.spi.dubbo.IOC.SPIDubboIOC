@@ -1,0 +1,3 @@
+blue=org.zj.spi.dubbo.IOC.SPIDubboIOCBlueImpl
+red=org.zj.spi.dubbo.IOC.SPIDubboIOCRedImpl
+org.zj.spi.dubbo.IOC.Wrapper
