@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-       xmlns:zj="F:\dubbo-master\dubbo-my--\dubbo-master\myspitest\src\main\resources\spring"
+       xmlns:zj="http://zhoujie888.com:8099/resouce/"
        xmlns="http://www.springframework.org/schema/beans"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.3.xsd
-       F:\dubbo-master\dubbo-my--\dubbo-master\myspitest\src\main\resources\spring F:\dubbo-master\dubbo-my--\dubbo-master\myspitest\src\main\resources\spring\proper.xsd">
+       http://zhoujie888.com:8099/resouce/ http://zhoujie888.com:8099/resouce/proper.xsd">
 
-    <zj:proper name="zhoujie" age="25" id="0001"/>
+    <zj:propers name="zhoujie" age="25" id="zhoujiess"/>
 
 </beans>

@@ -2,15 +2,15 @@
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
             xmlns:beans="http://www.springframework.org/schema/beans"
             xmlns:tool="http://www.springframework.org/schema/tool"
-            xmlns="F:\dubbo-master\dubbo-my--\dubbo-master\myspitest\src\main\resources\spring"
-            targetNamespace="F:\dubbo-master\dubbo-my--\dubbo-master\myspitest\src\main\resources\spring">
+            xmlns="http://zhoujie888.com:8099/resouce/"
+            targetNamespace="http://zhoujie888.com:8099/resouce/">
 
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace"/>
     <xsd:import namespace="http://www.springframework.org/schema/beans" schemaLocation="http://www.springframework.org/schema/beans/spring-beans.xsd"/>
     <xsd:import namespace="http://www.springframework.org/schema/tool"/>
 
 
-    <xsd:element name="proper">
+    <xsd:element name="propers">
         <xsd:complexType>
             <xsd:complexContent>
                 <xsd:extension base="beans:identifiedType">

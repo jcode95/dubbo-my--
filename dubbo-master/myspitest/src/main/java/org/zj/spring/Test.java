@@ -15,7 +15,7 @@ public class Test {
 
     public static void main(String[] args) {
         ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("spring/myspring.xml");
-        MyApplicationConfig bean = context.getBean("0001", MyApplicationConfig.class);
+        MyApplicationConfig bean = context.getBean("zhoujiess", MyApplicationConfig.class);
         System.out.println(bean.getName());
     }
 
